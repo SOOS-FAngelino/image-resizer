@@ -292,3 +292,4 @@ Tests can be run with: `gulp test`
 
 *NOTE:* Completely refactored and improved, if you are looking for the older version it is tagged as [v0.0.1](https://github.com/jimmynicol/image-resizer/tree/v0.0.1).
 
+forked
