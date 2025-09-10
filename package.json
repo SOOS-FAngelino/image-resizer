@@ -31,7 +31,7 @@
     "concat-stream": "~1.4.5",
     "errorhandler": "^1.0.1",
     "express": "^4.9.7",
-    "glob": "~3.2.9",
+    "glob": "11.0.3",
     "image-type": "^2.0.2",
     "lodash": "4.17.21",
     "map-stream": "~0.1.0",
